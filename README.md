@@ -1,6 +1,6 @@
 ## Olá, sou a Juliana Monteiro 👋
 
-- 🌱 Estudante da 6 geração da Laboratoria  Brasil. Desenvolvedor Front-End
+- 🌱 Estudante de Front-End da 6° geração da Laboratória Brasil.
 - 📫 Contacte-me pelo e-mail: juliana47monteiro@gmail.com
   
   <div>
