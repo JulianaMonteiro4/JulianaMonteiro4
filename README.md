@@ -1,8 +1,9 @@
 ## Olá, sou a Juliana Monteiro 👋
 
+----
 <p>
-  <h1>🖥️ Desenvolvedora Front-End Junior</h4>
-  <h2>💛 Graduanda na 6ª geração da Laboratória Brasil</h4>
+  <h4>🖥️ Desenvolvedora Front-End Junior</h4>
+  <h4>💛 Graduanda na 6ª geração da Laboratória Brasil</h4>
 </p>
 
 ----
