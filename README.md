@@ -1,6 +1,5 @@
 ## Olá, sou a Juliana Monteiro 👋
 
-----
 <p>
   <h4>🖥️ Desenvolvedora Front-End Junior</h4>
   <h4>💛 Graduanda na 6ª geração da Laboratória Brasil</h4>
@@ -10,8 +9,8 @@
 
 <div>
   <a href="https://github.com/JulianaMonteiro4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaMonteiro4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMonteiro4&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulianaMonteiro4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMonteiro4&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ----
